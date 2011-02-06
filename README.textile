@@ -1,0 +1,4 @@
+h1. specbook - the code from the rspec book
+
+I just have all this code here so that I can work on it on multiple
+computers.
